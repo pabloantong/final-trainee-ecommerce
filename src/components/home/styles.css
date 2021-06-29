@@ -1,0 +1,13 @@
+.homeTitle {
+    margin-top: 0px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    color: black;
+}
+
+.topmargin {
+    margin-top: 45px;
+}
